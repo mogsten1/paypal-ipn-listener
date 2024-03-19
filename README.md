@@ -25,7 +25,7 @@ A PayPal IPN (Instant Payment Notification) listener for PHP
 ## <a id="installation"></a>Installation
 
 ```bash
-composer require mike182uk/paypal-ipn-listener
+composer require mogsten1/paypal-ipn-listener
 ```
 
 ## <a id="architecture"></a>Architecture
